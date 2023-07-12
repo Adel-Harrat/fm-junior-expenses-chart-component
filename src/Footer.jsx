@@ -11,12 +11,12 @@ function Footer() {
         </h2>
 
         <div className="text-right">
-          <h4 className="text-base md:text-xl font-bold text-tw-dark-brown">
+          <h2 className="text-base md:text-xl font-bold text-tw-dark-brown">
             +2.4%
-          </h4>
-          <h3 className="text-base md:text-xl text-tw-medium-brown">
+          </h2>
+          <h4 className="text-base md:text-xl text-tw-medium-brown">
             from last month
-          </h3>
+          </h4>
         </div>
       </section>
     </footer>
