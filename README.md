@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Adel-Harrat/fm-junior-expenses-chart-component/)
-- Live Site URL: [Vercel](https://github.com/Adel-Harrat/fm-junior-expenses-chart-component/)
+- Live Site URL: [Vercel](https://fm-junior-expenses-chart-component.vercel.app/)
 
 ## My process
 
